@@ -7,7 +7,7 @@ This project requires you to create an asynchronous web app that uses Web API an
 ## Discription
 
 This project gets the data from (openWeather)API then sends it to the server then sends it back to
-the clint side and dynamically update the UI.
+the client side and dynamically updates the UI.
 
 ## How to use it
 
